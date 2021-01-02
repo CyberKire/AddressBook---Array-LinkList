@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1607817148 source:c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1\main.cpp
+	<iostream>
+	"addressType.h"
+	"personType.h"
+	"dateType.h"
+	"extPersonType.h"
+	"addressBookType.h"
+	"arrayListType.cpp"
+
+1607645601 source:c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1\addresstype.cpp
+	"addressType.h"
+	<iostream>
+
+1607645601 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1\addresstype.h
+	<string>
+
+1607645780 source:c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1\persontype.cpp
+	"personType.h"
+
+1607645780 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1\persontype.h
+	<string>
+	<iostream>
+
+1607645558 source:c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1\datetype.cpp
+	"dateType.h"
+	<iostream>
+
+1607645558 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1\datetype.h
+
+1607815293 source:c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1\extpersontype.cpp
+	"extPersonType.h"
+
+1607815287 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1\extpersontype.h
+	"dateType.h"
+	"personType.h"
+	"addressType.h"
+	<iostream>
+
+1607815010 source:c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1\arraylisttype.cpp
+	"arrayListType.h"
+	<assert.h>
+
+1607807613 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1\arraylisttype.h
+	<iostream>
+
+1607813981 source:c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1\addressbooktype.cpp
+	"addressBookType.h"
+	"arrayListType.cpp"
+
+1607807127 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1\addressbooktype.h
+	"arrayListType.h"
+	"extPersonType.h"
+
+1607815010 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1\arraylisttype.cpp
+	"arrayListType.h"
+	<assert.h>
+

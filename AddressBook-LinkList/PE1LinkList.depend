@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1608152725 source:c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\datetype.cpp
+	"dateType.h"
+	<iostream>
+
+1608152725 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\datetype.h
+
+1608417891 source:c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\main.cpp
+	<iostream>
+	"extPersonType.h"
+	"addressBookType.h"
+	"orderedLinkedList.cpp"
+	"linkedListType.cpp"
+
+1608152725 source:c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\persontype.cpp
+	"personType.h"
+
+1608152725 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\persontype.h
+	<string>
+	<iostream>
+
+1608153303 source:c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\adresstype.cpp
+	"addressType.h"
+	<iostream>
+
+1608153303 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\addresstype.h
+	<string>
+
+1608409330 source:c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\extpersontype.cpp
+	"extPersonType.h"
+
+1608408852 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\extpersontype.h
+	"dateType.h"
+	"personType.h"
+	"addressType.h"
+	<iostream>
+
+1608412758 source:c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\linkedlisttype.cpp
+	"linkedListType.h"
+	<iostream>
+	<assert.h>
+
+1608171017 source:c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\linkedlistiterator.cpp
+	"linkedListIterator.h"
+	<iostream>
+
+1608166515 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\linkedlistiterator.h
+	"nodeType.h"
+
+1608155323 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\nodetype.h
+
+1608326974 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\linkedlisttype.h
+	"nodeType.h"
+	"linkedListIterator.h"
+	"extPersonType.h"
+
+1608413430 source:c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\orderedlinkedlist.cpp
+	"orderedLinkedList.h"
+
+1608412741 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\orderedlinkedlist.h
+	"linkedListType.h"
+	<iostream>
+
+1608417968 source:c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\addressbooktype.cpp
+	"addressBookType.h"
+	"linkedListType.cpp"
+	"orderedLinkedList.cpp"
+
+1608418194 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\addressbooktype.h
+	"orderedLinkedList.h"
+	"extPersonType.h"
+	<iostream>
+
+1608153128 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\extpersontype.cpp
+	"extPersonType.h"
+
+1608413430 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\orderedlinkedlist.cpp
+	"orderedLinkedList.h"
+
+1608412758 c:\users\erik\desktop\cpp\practice\exercises\book problems\chapter 5 - link list\pe1linklist\linkedlisttype.cpp
+	"linkedListType.h"
+	<iostream>
+	<assert.h>
+
